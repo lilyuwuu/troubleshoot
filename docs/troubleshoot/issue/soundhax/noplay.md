@@ -13,5 +13,7 @@ You have the wrong Soundhax file for your device and region, or your device is i
 	- C corresponds to "CHN"
 - Soundhax is only compatible with firmwares up to **11.3** (eleven point **three**). Firmwares 11.4 and above (including 11.10, 11.11, 11.12, 11.13, 11.14, and 11.15) are **NOT** compatible.
 
-[Got it](/troubleshoot/issue/success){ .md-button }
-[I don't understand](/troubleshoot/issue/support){ .md-button }
+[Go to soundhax.com](https://soundhax.com){ .md-button }
+
+[It worked!](/troubleshoot/issue/success){ .md-button }
+[It didn't work :(](/troubleshoot/issue/failure){ .md-button }
