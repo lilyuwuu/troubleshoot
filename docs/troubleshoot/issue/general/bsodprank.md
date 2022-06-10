@@ -19,7 +19,7 @@ Good, it's not genuine -- now let's undo the prank.
 ## fastboot3DS splash screen
 
 1. Insert your SD card into your computer
-`. Navigate to the `3ds` folder
+1. Navigate to the `3ds` folder
 1. Delete the `fastboot3DS` folder
 
 [It worked!](/troubleshoot/issue/success){ .md-button }
