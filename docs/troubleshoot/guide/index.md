@@ -26,7 +26,7 @@ What page did the issue take place on?
 
 [CTRTransfer / Region Changing](ctrtransfer){ .md-button }
 
-[Uninstall CFW](uninstall){ .md-button }
+[Uninstall CFW](uninstall-confirm){ .md-button }
 
 ---
 
