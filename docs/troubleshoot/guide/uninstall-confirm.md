@@ -7,7 +7,7 @@
 	- Re-install custom firmware with a "cleaner setup"
 	- Avoid a ban on the console
 
-	Uninstalling custom firmware is a long process that isn't entirely risk-free unlike most other pages on the guide. If you skip steps, you genuinely do run the risk of bricking your device.
+	Uninstalling custom firmware is a long process that does carry some risk, unlike most other pages on the guide. If you skip steps, you genuinely do run the risk of bricking your device (or severely hindering its functionality).
 
 	Instead, you should instead use custom firmware to diagnose the issue you're having. You can ask for help with this at [Nintendo Homebrew on Discord](https://discord.gg/MWxPgEp).
 
