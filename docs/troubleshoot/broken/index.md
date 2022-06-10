@@ -1,5 +1,8 @@
-# Console has CFW, something weird's going on
+# Something is broken
 
+!!! note
+	The troubleshooting on this page assumes that you have some form of permanent custom firmware installed.
+ 
 Which of these sounds like your issue?
 
 [DS(i) mode doesn't work](/troubleshoot/issue/cfw/twl){ .md-button }

@@ -6,4 +6,4 @@ What best describes your issue?
 
 [My 3DS can't boot to HOME Menu](noboot){ .md-button }
 
-[I have CFW and something is going weird](cfw){ .md-button }
+[My 3DS boots to HOME Menu, but something is broken](broken){ .md-button }
