@@ -1,0 +1,31 @@
+site_name: 3DS Troubleshooter
+site_description: Interactive troubleshooter for 3ds.hacks.guide.
+theme:
+  name: material
+  custom_dir: theme
+  features:
+    - navigation.top
+    - navigation.tabs
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+    - admonition
+    - tables
+    - pymdownx.tilde
+    - attr_list
+
+plugins:
+  - literate-nav:
+      nav_file: nav.md
