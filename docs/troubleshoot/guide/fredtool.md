@@ -8,4 +8,6 @@ Which of these sounds like your issue?
 
 [Black screen when launching DS Connection Settings](/troubleshoot/issue/fredtool/intbork){ .md-button }
 
+---
+
 [Something else](/troubleshoot/issue/unknown){ .md-button }

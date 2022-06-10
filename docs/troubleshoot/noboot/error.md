@@ -10,4 +10,6 @@ What does your error look like?
 
 [BOOTROM 8046 (blue screen)](/troubleshoot/noboot/bsodcheck){ .md-button }
 
+---
+
 [Something else](/troubleshoot/issue/unknown){ .md-button }

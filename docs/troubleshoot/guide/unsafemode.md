@@ -6,4 +6,6 @@ Which of these sounds like your issue?
 
 [Red screen after tapping "Detailed Setup"](/troubleshoot/issue/usm/missing){ .md-button }
 
+---
+
 [Something else](/troubleshoot/guide/universal-otherapp){ .md-button }

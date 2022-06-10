@@ -8,4 +8,6 @@ What happens when you power on your 3DS?
 
 [The power light stays on, but I see a black screen forever](/troubleshoot/issue/general/black){ .md-button }
 
+[I see Luma3DS configuration or GodMode9](/troubleshoot/issue/hardware/stuck){ .md-button }
+
 [I see an error message](error){ .md-button }

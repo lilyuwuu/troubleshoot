@@ -10,4 +10,6 @@ Which of these sounds like your issue?
 
 [DSiWare Management SD menu crashes almost immediately without showing purple screen or USM menu](/troubleshoot/issue/bb3/crash){ .md-button }
 
+---
+
 [Something else](/troubleshoot/issue/unknown){ .md-button }

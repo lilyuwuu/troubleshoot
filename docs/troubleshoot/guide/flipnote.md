@@ -12,4 +12,6 @@ Which of these sounds like your issue?
 
 [White screen after pasting](/troubleshoot/issue/flipnote/screen){ .md-button }
 
+---
+
 [Something else](/troubleshoot/issue/unknown){ .md-button }

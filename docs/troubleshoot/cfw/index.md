@@ -10,4 +10,6 @@ Which of these sounds like your issue?
 
 [Extended memory mode games (Sm4sh, Gen 7 Pokémon) don't work](/troubleshoot/issue/cfw/ext){ .md-button }
 
+---
+
 [Something else](/troubleshoot/issue/unknown){ .md-button }
