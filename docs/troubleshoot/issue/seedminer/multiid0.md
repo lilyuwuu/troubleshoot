@@ -1,5 +1,7 @@
 # Multiple ID0s in Nintendo 3DS folder
 
+![Image](/images/seedminer/multiple-id0.png)
+
 This occurs when you use your SD card in multiple 3DS devices and is intended to prevent inadvertently merging data that would not be valid on other devices. To figure out which long folder name is correct for your 3DS, follow these instructions:
 
 1. Rename the `Nintendo 3DS` folder to `BACKUP_Nintendo 3DS`
@@ -13,5 +15,4 @@ This occurs when you use your SD card in multiple 3DS devices and is intended to
 1. Delete the `Nintendo 3DS` folder
 1. Rename the `BACKUP_Nintendo 3DS` folder to `Nintendo 3DS`
 
-[It worked!](/troubleshoot/issue/success){ .md-button }
-[It didn't work :(](/troubleshoot/issue/failure){ .md-button }
+{% include-markdown "../../../includes/successfail.md" %}

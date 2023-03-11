@@ -1,13 +1,19 @@
-# DSiWare Management menu crashes almost immediately
+# DSiWare Management menu crashes
 
-Ensure that `F00D43D5.bin` is the only file in `Nintendo 3DS` -> `<ID0>` -> `<ID1>` -> `Nintendo DSiWare`. If it is, then re-create it with the relevant tool depending on the guide you're following:
+![Image](/images/bb3/errorbox.png)
 
-[unSAFE_MODE](https://3ds.nhnarwhal.com/3dstools/unsafemode.php){ .md-button } [BannerBomb3 Tool](https://3ds.nhnarwhal.com/3dstools/bannerbomb3.php){ .md-button }
+Ensure that `bb3.bin` is on the root of the SD card (if you need it, it's in the `DSIWARE_EXPLOIT.zip` file that you got `F00D43D5.bin` from):
 
-If this console has had custom firmware before, it is likely that custom firmware was removed in a way that makes this method impossible to perform. Try the PicHaxx method, and/or join the Nintendo Homebrew server for assistance.
+![Image](/images/bb3/bb3-root-layout.png)
 
-[Go to Installing boot9strap (PicHaxx)](https://3ds.hacks.guide/installing-boot9strap-(pichaxx)){ .md-button }
+Also, ensure that `F00D43D5.bin` is the only file in `Nintendo 3DS` -> `<ID0>` -> `<ID1>` -> `Nintendo DSiWare`.
 
-[Go to Nintendo Homebrew (Discord)](https://discord.gg/MWxPgEp){ .md-button }
+![Image](/images/bb3/dsiware-location-2.png)
 
-[Start over](/){ .md-button }
+If this console has had custom firmware before, it is likely that custom firmware was removed in a way that makes Seedminer-based methods impossible to perform.
+
+If you have a copy (digital or physical) of Mario Kart 7 *and* a second, modded 3DS, you can try the [kartdlphax](https://3ds.hacks.guide/installing-boot9strap-(kartdlphax)) method.
+
+If you have a compatible DS flashcart, you can try the [ntrboot](https://3ds.hacks.guide/ntrboot) method.
+
+{% include-markdown "../../../includes/support.md" %}

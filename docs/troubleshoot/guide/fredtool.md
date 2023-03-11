@@ -2,12 +2,12 @@
 
 Which of these sounds like your issue?
 
-["Haxxxxxxxxx!" does not appear](/troubleshoot/issue/fredtool/nohaxx){ .md-button }
+[![Image](/images/fredtool/nohaxx.png){ align=left }"Haxxxxxxxxx!" does not appear](/troubleshoot/issue/fredtool/nohaxx){ .md-button }
 
-[DS Connection Settings launches normally](/troubleshoot/issue/fredtool/intnorm){ .md-button }
+[![Image](/images/fredtool/consett.jpg){ align=left }DS Connection Settings launches normally](/troubleshoot/issue/fredtool/intnorm){ .md-button }
 
-[Black screen when launching DS Connection Settings](/troubleshoot/issue/fredtool/intbork){ .md-button }
+[![Image](/images/fredtool/blackscreen.png){ align=left }Black screen when launching DS Connection Settings](/troubleshoot/issue/fredtool/intbork){ .md-button }
 
 ---
 
-[Something else](/troubleshoot/issue/unknown){ .md-button }
+{% include-markdown "../../includes/missing.md" %}

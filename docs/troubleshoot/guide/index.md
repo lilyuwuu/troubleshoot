@@ -2,31 +2,21 @@
 
 What page did the issue take place on?
 
-[Seedminer](seedminer-landing){ .md-button }
+[:pick: Seedminer](seedminer-landing){ .md-button }
 
-[Installing boot9strap (PicHaxx)](pichaxx-landing){ .md-button }
+[:bomb: BannerBomb3](bb3){ .md-button }
 
-[Installing boot9strap (USM)](unsafemode-landing){ .md-button }
+[:safety_vest: Installing boot9strap (USM)](unsafemode-landing){ .md-button }
 
-[Installing boot9strap (Soundhax)](soundhax-landing){ .md-button }
+[:frog: Installing boot9strap (Fredtool)](fredtool-landing){ .md-button }
 
-[BannerBomb3](bb3){ .md-button }
+[:loud_sound: Installing boot9strap (Soundhax)](soundhax-landing){ .md-button }
 
-[Installing boot9strap (Fredtool)](fredtool-landing){ .md-button }
+[:sloth: Installing boot9strap (SSLoth)](ssloth-landing){ .md-button }
 
----
+[:material-go-kart: Installing boot9strap (kartdlphax)](kartdlphax){ .md-button}
 
-[Finalizing Setup](finalizing){ .md-button }
-
-[A9LH to B9S](atob){ .md-button }
-
-[Updating B9S](updateb9s){ .md-button }
-
----
-
-[CTRTransfer / Region Changing](ctrtransfer){ .md-button }
-
-[Uninstall CFW](uninstall-confirm){ .md-button }
+[:sparkles: Finalizing Setup](finalizing){ .md-button }
 
 ---
 

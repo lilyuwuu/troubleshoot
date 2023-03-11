@@ -1,10 +1,13 @@
 # Lenny face does not appear
 
-You didn't copy the `private` folder from the Frogminer_save `.zip` to the root of your SD card.
-	
-You can get it from [here](https://github.com/zoogie/Frogminer/releases/download/v1.0/Frogminer_save.zip).
+![Image](/images/flipnote/nolenny.png)
 
-- For reference, the root of the SD card is the directory where you can see the `Nintendo 3DS` folder, but aren't inside of it.
+You didn't copy the `private` folder from the Frogminer_save `.zip` to the root of your SD card. You can get it from [here](https://github.com/zoogie/Frogminer/releases/download/v1.0/Frogminer_save.zip).
 
-[It worked!](/troubleshoot/issue/success){ .md-button }
-[It didn't work :(](/troubleshoot/issue/failure){ .md-button }
+Remember, this is what your SD card should look like:
+
+![Image](/images/fredtool/fredtool-root-layout.png)
+
+![Image](/images/flipnote/frogsave.png)
+
+{% include-markdown "../../../includes/successfail.md" %}

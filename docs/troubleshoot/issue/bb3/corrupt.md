@@ -1,6 +1,7 @@
 # DSiWare Management menu shows a question mark
 
-`F00D43D5.bin` is missing from `Nintendo 3DS` -> `<ID0>` -> `<ID1>` -> `Nintendo DSiWare`. Make sure that Nintendo DSiWare is correctly spelled and spaced. Uppercase/lowercase does not matter.
+![Image](/images/bb3/corrupt.png)
 
-[It worked!](/troubleshoot/issue/success){ .md-button }
-[It didn't work :(](/troubleshoot/issue/failure){ .md-button }
+There may be an issue with your `F00D43D5.bin` file (it may be corrupted or you used the `movable.sed` for a different 3DS when creating it). Re-create your F00D43D5.bin file with the [Bannerbomb3 Injector](https://3dstools.nhnarwhal.com/#/bb3gen), ensuring that you use the movable.sed file for your console.
+
+{% include-markdown "../../../includes/successfail.md" %}

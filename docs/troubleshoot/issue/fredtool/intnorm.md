@@ -1,3 +1,7 @@
+# Two buttons instead of Flipnote
+
+![Image](/images/fredtool/consett.jpg)
+
 "Haxxxxxxxxx!" was not copied from your SD card to system memory.
 
 Redo the following:
@@ -11,5 +15,8 @@ Redo the following:
 1. Navigate to `Internet Settings` -> `Nintendo DS Connections`, then select "OK"
 1. If the exploit was successful, your device will have loaded the JPN version of Flipnote Studio
 
-[It worked!](/troubleshoot/issue/success){ .md-button }
-[It didn't work :(](/troubleshoot/issue/failure){ .md-button }
+Remember, `42383841.bin` needs to go here:
+
+![Image](/images/fredtool/dsiware-location-4.png)
+
+{% include-markdown "../../../includes/successfail.md" %}
