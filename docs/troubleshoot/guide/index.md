@@ -14,8 +14,6 @@ What page did the issue take place on?
 
 [:sloth: Installing boot9strap (SSLoth)](ssloth-landing){ .md-button }
 
-[:material-go-kart: Installing boot9strap (kartdlphax)](kartdlphax){ .md-button}
-
 [:sparkles: Finalizing Setup](finalizing){ .md-button }
 
 ---
