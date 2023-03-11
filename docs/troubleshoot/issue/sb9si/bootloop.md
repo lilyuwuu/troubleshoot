@@ -1,7 +1,5 @@
 # 3DS always boots into SafeB9SInstaller
 
-![Image](/images/sb9si/loop.png)
-
 `SafeB9SInstaller.firm` is currently set as your `boot.firm`, so your 3DS will always boot into it. To fix this:
 
 1. When you see the key combo prompt, force power off your device by holding the power button for 15 seconds.

@@ -12,7 +12,7 @@ Which of these sounds like your issue?
 
 ---
 
-[![Image](/images/sb9si/loop.png){ align=left }3DS always boots into SafeB9SInstaller](/troubleshoot/issue/sb9si/bootloop){ .md-button }
+[3DS always boots into SafeB9SInstaller](/troubleshoot/issue/sb9si/bootloop){ .md-button }
 
 [![Image](/images/sb9si/poweroff.png){ align=left }3DS won't turn on after running SafeB9SInstaller](/troubleshoot/issue/general/missing){ .md-button }
 
