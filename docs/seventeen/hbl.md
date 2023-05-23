@@ -1,5 +1,7 @@
 # Result: YES
 
+![Image](/images/seventeen/success.png)
+
 YES! You can use your Homebrew Launcher access to install custom firmware on your 3DS.
 
 If your shoulder buttons (L/R) ARE working, use HBL-USM. If they are NOT working, use Dumping movable (nimhax).

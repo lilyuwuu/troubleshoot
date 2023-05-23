@@ -1,5 +1,7 @@
 # Result: YES
 
+![Image](/images/seventeen/success.png)
+
 YES! You can install CFW through ninjhax2-dx.
 
 (NOTE: You need a working 3DS camera!)
