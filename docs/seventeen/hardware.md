@@ -6,6 +6,8 @@ Do you already have / Are you able to install any of the following on the 3DS yo
 
 [Steel Diver: Sub Wars](/seventeen/steelhax){ .md-button }
 
+[SmileBASIC](/seventeen/smilehax){ .md-button }
+
 [ANY DSiWare title](/seventeen/dsiware){ .md-button }
 
 *Note: A DSiWare title's banner will be a white box with an icon inside of it that is likely animated*
