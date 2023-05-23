@@ -1,4 +1,5 @@
 * [Home](/)
 * [Troubleshoot](/troubleshoot)
 * [DSiWare](/dsiware)
+* [11.17 method finder](/seventeen)
 * [Report an issue](/troubleshoot/issue/report)
