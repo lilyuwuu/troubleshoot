@@ -14,10 +14,17 @@ Do you already have / Are you able to install any of the following on the 3DS yo
 
 If not, do you have access to any of the following?
 
+[Cubic Ninja](/seventeen/ninjhaxlater){ .md-button }
+
+[Freakyforms Deluxe](/seventeen/freakyformslater){ .md-button }
+
+[Some other form of Homebrew Launcher access on this 3DS](/seventeen/hbl){ .md-button }
+
 [Another 3DS with CFW](/seventeen/kartdlphaxlater){ .md-button }
 
 [A DS flashcart (R4)](/seventeen/ntrboot){ .md-button }
 
 ---
+
 
 [No, none of these](/seventeen/failure){ .md-button }
