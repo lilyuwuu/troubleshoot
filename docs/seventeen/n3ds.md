@@ -9,7 +9,3 @@ What region is your console? You can check by opening System Settings. The last 
 [![Image](/images/seventeen/eur.jpg){ align=left }E (EUR)](/seventeen/skater){ .md-button }
 
 [![Image](/images/seventeen/kor.png){ align=left }K (KOR)](/seventeen/seedminer){ .md-button } 
-
-[![Image](/images/seventeen/twhk.png){ align=left }T (TWN)](/seventeen/seedminertwn){ .md-button } 
-
-[![Image](/images/seventeen/chn.png){ align=left }C (CHN)](/seventeen/failure){ .md-button } 
