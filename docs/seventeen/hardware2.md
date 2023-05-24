@@ -6,7 +6,7 @@ Do you already have / Are you able to install any of the following on the 3DS yo
 
 [![Image](/images/seventeen/steel_icon.png){ align=left }Steel Diver: Sub Wars](/seventeen/steelhaxlater){ .md-button }
 
-[![Image](/images/seventeen/smile_icon.png){ align=left }SmileBASIC](/seventeen/smilehaxkater){ .md-button }
+[![Image](/images/seventeen/smile_icon.png){ align=left }SmileBASIC](/seventeen/smilehaxlater){ .md-button }
 
 [![Image](/images/seventeen/dsi.jpg){ align=left }ANY DSiWare title](/seventeen/dsiware){ .md-button }
 
