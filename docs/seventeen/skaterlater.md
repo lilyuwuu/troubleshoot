@@ -6,5 +6,9 @@ The otherapp for super-skaterhax needs to be updated to support USA 11.17.0. So,
 
 [Go to Homebrew Launcher (super-skaterhax) *NOT YET WORKING*](https://3ds.hacks.guide/homebrew-launcher-(super-skaterhax)){ .md-button } 
 
+You can also check to see if another alternate method will work for you, depending on the applications you have installed or the physical hardware that you have access to:
+
+[Go to Alternate Methods](/seventeen/hardware2)
+
 [Start over](/seventeen){ .md-button }
 
