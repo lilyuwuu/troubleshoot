@@ -10,7 +10,7 @@ The otherapp for super-skaterhax needs to be updated to support USA 11.17.0. So,
 
 You can also check to see if another alternate method will work for you, depending on the applications you have installed or the physical hardware that you have access to:
 
-[Go to Alternate Methods](/seventeen/hardware2)
+[Go to Alternate Methods](/seventeen/hardware2){ .md-button }
 
 [Start over](/seventeen){ .md-button }
 
