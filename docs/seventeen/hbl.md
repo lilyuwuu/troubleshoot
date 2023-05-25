@@ -4,6 +4,8 @@
 
 YES! You can use your Homebrew Launcher access to install custom firmware on your 3DS.
 
+(You may need to swap out your `otherapp.bin` or `payload.bin` file for one of the ones [here](https://hacksguidewiki.sfo3.digitaloceanspaces.com/hacksguidewiki/Otherapps.zip).)
+
 If your shoulder buttons (L/R) ARE working, use HBL-USM. If they are NOT working, use Dumping movable (nimhax).
 
 [Go to Installing boot9strap (HBL-USM)](https://wiki.hacks.guide/wiki/3DS:Alternate_Exploits/Installing_boot9strap_(HBL-USM)){ .md-button }
