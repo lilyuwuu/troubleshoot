@@ -14,9 +14,9 @@ Do you already have / Are you able to install any of the following on the 3DS yo
 
 If not, do you have access to any of the following?
 
-[![Image](/images/seventeen/cn_icon.png){ align=left }Cubic Ninja](/seventeen/ninjhax){ .md-button }
+[![Image](/images/seventeen/cn_icon.png){ align=left }Cubic Ninja (cartridge or digital)](/seventeen/ninjhax){ .md-button }
 
-[![Image](/images/seventeen/freaky_icon.png){ align=left }Freakyforms Deluxe](/seventeen/freakyforms){ .md-button }
+[![Image](/images/seventeen/freaky_icon.png){ align=left }Freakyforms Deluxe (cartridge or digital)](/seventeen/freakyforms){ .md-button }
 
 [![Image](/images/seventeen/hbl.jpg){ align=left }Some other form of Homebrew Launcher access on this 3DS](/seventeen/hbl){ .md-button }
 
