@@ -1,4 +1,4 @@
-# Old 3DS / Old 3DS XL / 2DS
+# Alternate Exploits (USA)
 
 Do you already have / Are you able to install any of the following on the 3DS you are trying to hack? (You may be able to redownload such software from eShop.)
 
