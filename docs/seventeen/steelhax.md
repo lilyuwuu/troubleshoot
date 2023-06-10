@@ -4,6 +4,6 @@
 
 YES! You can install CFW through steelhax.
 
-[Go to Seedminer](https://gist.github.com/lilyuwuu/b6137bcfd2f2dcb176a55d9c1df69252){ .md-button } 
+[Go to Seedminer (Alternate)](https://3ds.hacks.guide/seedminer-(alternate)){ .md-button } 
 
 [Start over](/seventeen){ .md-button }
