@@ -12,4 +12,4 @@
 
 [![Image](/images/seventeen/twhk.png){ align=left }T (TWN)](/seventeen/seedminertwn){ .md-button } 
 
-[![Image](/images/seventeen/chn.png){ align=left }C (CHN)](/seventeen/failure){ .md-button } 
+[![Image](/images/seventeen/chn.png){ align=left }C (CHN)](/seventeen/failure-chn){ .md-button } 
