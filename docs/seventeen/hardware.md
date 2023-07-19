@@ -18,8 +18,6 @@ If not, do you have access to any of the following?
 
 [![Image](/images/seventeen/freaky_icon.png){ align=left }Freakyforms Deluxe (cartridge or digital)](/seventeen/freakyforms){ .md-button }
 
-[![Image](/images/seventeen/hbl.jpg){ align=left }Some other form of Homebrew Launcher access on this 3DS](/seventeen/hbl){ .md-button }
-
 [![Image](/images/seventeen/cfw.png){ align=left }Another 3DS with CFW](/seventeen/kartdlphax){ .md-button }
 
 [![Image](/images/seventeen/r4.jpg){ align=left }A DS flashcart (R4)](/seventeen/ntrboot){ .md-button }
