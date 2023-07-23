@@ -2,7 +2,7 @@
 
 Do you already have / Are you able to install any of the following on the 3DS you are trying to hack? (You may be able to redownload such software from eShop.)
 
-[![Image](/images/seventeen/picross.jpg){ align=left }Mario Kart 7 (cartridge or digital)](/seventeen/kartminer7){ .md-button }
+[![Image](/images/seventeen/mk7.png){ align=left }Mario Kart 7 (cartridge or digital)](/seventeen/kartminer7){ .md-button }
 
 [![Image](/images/seventeen/picross.jpg){ align=left }Pokémon Picross](/seventeen/pichaxx){ .md-button }
 
