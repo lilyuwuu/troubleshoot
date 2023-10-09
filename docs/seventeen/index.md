@@ -1,5 +1,8 @@
 # 11.17: Can I mod my 3DS?
 
+!!! info "Update (2023/10/09)"
+	A new exploit was recently released for Old 3DS, meaning that most consoles should now have a free software method available! This website will keep being updated for now as exploit stability increases.
+
 This page lets you know whether you can hack your 3DS on 11.17.0.
 
 First of all, what model of 3DS/2DS do you have?
